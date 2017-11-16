@@ -2,6 +2,7 @@
 
 library("sp")
 library("maptools")
+library(readr)
 
 # Download the KML and BMP data.
 nbh.raw <- getKMLcoordinates(kmlfile="https://raw.githubusercontent.com/k5cents/dc-bmp/master/shapes.kml", ignoreAltitude = T)
@@ -27,7 +28,18 @@ for(i in 1:length(nbh.raw)){
   assign(names(nbh.shapes)[i], nbh.shapes[[i]])
 }
 
-# Use the DC MAR to assign Lat, Long to addresses
+# Download the property addresses as a CSV file.
+prop_address_list <- tax$PROPERTY_ADDRESS
+prop_address_list <- as.data.frame(prop_address_list)
+write_excel_csv(prop_address_list, path = "/home/kiernan/govt310/prop_address_list.csv")
+
+# Use the DC MAR to assign Latitute, Longitude to property addresses.
+tax.long <- read.csv("TAX_LONG.csv") # Created with MAR
+tax.lat <- read.csv("TAX_LAT.csv") # Created with MAR
+tax.coords <- cbind(tax.lat, tax.long)
+nrow(tax$PROPERTY_ADDRESS) == nrow(tax.coords)
+tax$LONGITUDE <- tax.long
+tax$LATITUDE <- tax.lat
 
 # Create variable indicating presence in each neighborhood.
 nbh.char <- as.character(nbh.names)
