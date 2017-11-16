@@ -4,6 +4,7 @@ This is a final project for American University's GOVT-310 Introduction to Polit
 ## Green Infrastructure
 Here is the EPA's definition for green infrastructure:
 > Green infrastructure is a cost-effective, resilient approach to managing wet weather impacts that provides many community benefits. While single-purpose gray stormwater infrastructure—conventional piped drainage and water treatment systems—is designed to move urban stormwater away from the built environment, green infrastructure reduces and treats stormwater at its source while delivering environmental, social, and economic benefits. ([source](https://www.epa.gov/green-infrastructure/what-green-infrastructure))
+
 In our data set, green infrastructure is assessed in terms of "best management practices" (BMP), structural controls used to manage stormwater runoff. There are 46 different types of BMPs recorded by the city, some of which include:
 * Green rooves
 * Porous asphalt
