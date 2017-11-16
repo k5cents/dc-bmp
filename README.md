@@ -1,2 +1,2 @@
-# dc-bmp
-Final project for American University GOVT-310. Assessing DC's green infrastructure incentive programs for socioeconomic equity and efficacy.
+# DC Green Infrastructure
+This is a final project for American University's GOVT-310 Introduction to Political Research undergradute class. We aim to assess DC's green infrastructure incentive programs for socioeconomic equity and efficacy. To this end, we will use data from DC's http://opendata.dc.gov website, namely the [Integrated Tax System Public Extract Facts](http://opendata.dc.gov/datasets/integrated-tax-system-public-extract-facts) and [Best Management Practices](http://opendata.dc.gov/datasets/best-management-practices) data sets. These data sets will help us cross analize best management practices (green infrastructure) and socioeconomic status.
