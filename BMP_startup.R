@@ -46,5 +46,5 @@ for(i in 1:length(nbh.char)){
 BMP[nbh.char[1:length(nbh.char)]] <- NULL
 
 # Save modified dataset
-write.csv(BMP, "BMP.csv")
 head(BMP$neighborhood)
+write.csv(BMP, "BMP.csv")
