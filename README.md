@@ -13,7 +13,7 @@ In our data set, green infrastructure is assessed in terms of "best management p
 * Rain Gardens
 
 ## Municipal Incentives
-TDC stormwater regulations require that large construction or renovation projects install BMPs to manage stormwater runoff once construction is complete. The District also provides financial incentives for properties that install BMPs voluntarily
+DC stormwater regulations require that large construction or renovation projects install BMPs to manage stormwater runoff once construction is complete. The District also provides financial incentives for properties that install BMPs voluntarily
 
 All BMPs included in this data set were assessed by the Department of Energy and Environment (DOEE) to comply with city programs:
 * District’s stormwater regulations
@@ -22,3 +22,10 @@ All BMPs included in this data set were assessed by the Department of Energy and
 
 ## Our Project
 We aim to use property tax data to assess the equity and efficacy of these incentives and regulations.
+* Are BMPs installed evenly across neighborhoods of varying property value?
+* Do city incentives affect the instalation of BMPs differently in different neighborhoods?
+* Which areas of the city have the highest density of BMPs?
+* Is BMP installation becoming more common?
+* As stormwater fees increase, is there a resulting increase in BMP installations?
+
+We hope to answer these, and more questions using quantative social science.
