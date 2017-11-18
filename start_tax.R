@@ -33,7 +33,7 @@ prop_address_list <- tax$PROPERTY_ADDRESS
 prop_address_list <- as.data.frame(prop_address_list)
 write_excel_csv(prop_address_list, path = "/home/kiernan/govt310/prop_address_list.csv")
 
-# Use the DC MAR to assign Latitute, Longitude to property addresses.
+# Use the DC MAR to assign Latitude, Longitude to property addresses.
 tax.long <- read.csv("TAX_LONG.csv") # Created with MAR
 tax.lat <- read.csv("TAX_LAT.csv") # Created with MAR
 tax.coords <- cbind(tax.lat, tax.long)
