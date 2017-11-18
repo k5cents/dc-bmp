@@ -16,9 +16,9 @@ In our data set, green infrastructure is assessed in terms of "best management p
 DC stormwater regulations require that large construction or renovation projects install BMPs to manage stormwater runoff once construction is complete. The District also provides financial incentives for properties that install BMPs voluntarily
 
 All BMPs included in this data set were assessed by the Department of Energy and Environment (DOEE) to comply with city programs:
-* District’s stormwater regulations
-* Stormwater Retention Credit (SRC) trading program
-* RiverSmart Rewards stormwater fee discount program
+1. District’s stormwater regulations
+1. Stormwater Retention Credit (SRC) trading program
+1. RiverSmart Rewards stormwater fee discount program
 
 ## Our Project
 We aim to use property tax data to assess the equity and efficacy of these incentives and regulations.
@@ -28,4 +28,4 @@ We aim to use property tax data to assess the equity and efficacy of these incen
 * Is BMP installation becoming more common?
 * As stormwater fees increase, is there a resulting increase in BMP installations?
 
-We hope to answer these, and more questions using quantative social science.
+We aim to answer these questions using quantitive social science.
