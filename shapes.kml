@@ -5,7 +5,6 @@
     <Placemark>
       <name>Foggy Bottom, Washington, D.C.</name>
       <description>Foggy Bottom</description>
-      <styleUrl>#poly-4186F0-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -33,7 +32,6 @@
     <Placemark>
       <name>Downtown, Washington, D.C.</name>
       <description>Downtown</description>
-      <styleUrl>#poly-009D57-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -66,7 +64,6 @@
     <Placemark>
       <name>Dupont Circle, Washington, D.C.</name>
       <description>Dupont Circle</description>
-      <styleUrl>#poly-DB4436-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -99,7 +96,6 @@
     <Placemark>
       <name>Logan Circle, Washington, D.C.</name>
       <description>Logan Circle</description>
-      <styleUrl>#poly-F8971B-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -119,7 +115,6 @@
     <Placemark>
       <name>West End, Washington, D.C.</name>
       <description>West End</description>
-      <styleUrl>#poly-7C3592-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -150,7 +145,6 @@
     <Placemark>
       <name>Sheridan-Kalorama, Washington, D.C.</name>
       <description>Sheridan-Kalorama</description>
-      <styleUrl>#poly-F4EB37-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -187,7 +181,6 @@
     <Placemark>
       <name>Kalorama Triangle, Washington, D.C.</name>
       <description>Kalorama Triangle</description>
-      <styleUrl>#poly-A61B4A-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -216,7 +209,6 @@
     <Placemark>
       <name>Adams Morgan, Washington, D.C.</name>
       <description>Adams Morgan</description>
-      <styleUrl>#poly-0BA9CC-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -256,7 +248,6 @@
     <Placemark>
       <name>U Street Corridor, Washington, D.C.</name>
       <description>U Street Corridor</description>
-      <styleUrl>#poly-3F5BA9-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -284,7 +275,6 @@
     <Placemark>
       <name>Shaw, Washington, D.C.</name>
       <description>Shaw</description>
-      <styleUrl>#poly-C6A4CF-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -306,7 +296,6 @@
     <Placemark>
       <name>Mount Vernon Square, Washington, D.C.</name>
       <description>Mount Vernon Square</description>
-      <styleUrl>#poly-F4B400-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -327,7 +316,6 @@
     <Placemark>
       <name>Chinatown, Washington, D.C.</name>
       <description>Chinatown</description>
-      <styleUrl>#poly-777777-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -347,7 +335,6 @@
     <Placemark>
       <name>Truxton Circle, Washington, D.C.</name>
       <description>Truxton Circle</description>
-      <styleUrl>#poly-62AF44-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -366,7 +353,6 @@
     <Placemark>
       <name>Bloomingdale, Washington, D.C.</name>
       <description>Bloomingdale</description>
-      <styleUrl>#poly-D698AD-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -391,7 +377,6 @@
     <Placemark>
       <name>Eckington, Washington, D.C.</name>
       <description>Eckington</description>
-      <styleUrl>#poly-93D7E8-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -411,7 +396,6 @@
     <Placemark>
       <name>Noma/Sursum Corda, Washington, D.C.</name>
       <description>Noma/Sursum Corda</description>
-      <styleUrl>#poly-B29189-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -435,7 +419,6 @@
     <Placemark>
       <name>Atlas District, Washington, D.C.</name>
       <description>Atlas District</description>
-      <styleUrl>#poly-F4B400-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -455,7 +438,6 @@
     <Placemark>
       <name>Gallaudet, Washington, D.C.</name>
       <description>Gallaudet</description>
-      <styleUrl>#poly-3F5BA9-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -479,7 +461,6 @@
     <Placemark>
       <name>Mount Pleasant, Washington, D.C.</name>
       <description>Mount Pleasant</description>
-      <styleUrl>#poly-795046-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -514,7 +495,6 @@
     <Placemark>
       <name>Columbia Heights, Washington, D.C.</name>
       <description>Columbia Heights</description>
-      <styleUrl>#poly-CDDC39-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -541,7 +521,6 @@
     <Placemark>
       <name>Crestwood, Washington, D.C.</name>
       <description>Crestwood</description>
-      <styleUrl>#poly-EE9C96-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -572,7 +551,6 @@
     <Placemark>
       <name>16th Street Heights, Washington, D.C.</name>
       <description>16th Street Heights</description>
-      <styleUrl>#poly-F8971B-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -609,7 +587,6 @@
     <Placemark>
       <name>Brightwood, Washington, D.C.</name>
       <description>Brightwood</description>
-      <styleUrl>#poly-0BA9CC-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -634,7 +611,6 @@
     <Placemark>
       <name>Shepherd Park, Washington, D.C.</name>
       <description>Shepherd Park</description>
-      <styleUrl>#poly-F4EB37-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -654,7 +630,6 @@
     <Placemark>
       <name>Colonial Village, Washington, D.C.</name>
       <description>Colonial Village</description>
-      <styleUrl>#poly-D698AD-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -705,7 +680,6 @@
     <Placemark>
       <name>Takoma Park, Washington, D.C.</name>
       <description>Takoma Park</description>
-      <styleUrl>#poly-7C3592-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -724,7 +698,6 @@
     <Placemark>
       <name>Manor Park, Washington, D.C.</name>
       <description>Manor Park</description>
-      <styleUrl>#poly-DB4436-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -751,7 +724,6 @@
     <Placemark>
       <name>Lamond Riggs, Washington, D.C.</name>
       <description>Lamond Riggs</description>
-      <styleUrl>#poly-000000-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -787,7 +759,6 @@
     <Placemark>
       <name>Petworth, Washington, D.C.</name>
       <description>Petworth</description>
-      <styleUrl>#poly-62AF44-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -816,7 +787,6 @@
     </Placemark>
     <Placemark>
       <name>Fort Totten, Washington, D.C.</name>
-      <styleUrl>#poly-93D7E8-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -860,7 +830,6 @@
     <Placemark>
       <name>Pleasant Hill, Washington, D.C.</name>
       <description>Pleasant Hill</description>
-      <styleUrl>#poly-F9F7A6-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -884,7 +853,6 @@
     <Placemark>
       <name>Michigan Park, Washington, D.C.</name>
       <description>Michigan Park</description>
-      <styleUrl>#poly-F8971B-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -911,7 +879,6 @@
     <Placemark>
       <name>Woodridge, Washington, D.C.</name>
       <description>Woodridge</description>
-      <styleUrl>#poly-3F5BA9-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -934,7 +901,6 @@
     <Placemark>
       <name>Brookland, Washington, D.C.</name>
       <description>Brookland</description>
-      <styleUrl>#poly-7C3592-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -959,7 +925,6 @@
     <Placemark>
       <name><![CDATA[Old Soldiers' Home, Washington, D.C.]]></name>
       <description><![CDATA[Old Soldiers' Home]]></description>
-      <styleUrl>#poly-EE9C96-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -994,7 +959,6 @@
     <Placemark>
       <name>Park View, Washington, D.C.</name>
       <description>Park View</description>
-      <styleUrl>#poly-7CCFA9-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1022,7 +986,6 @@
     <Placemark>
       <name>LeDroit Park, Washington, D.C.</name>
       <description>LeDroit Park</description>
-      <styleUrl>#poly-B29189-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1041,7 +1004,6 @@
     <Placemark>
       <name>Washington Hospital Center, Washington, D.C.</name>
       <description>Washington Hospital Center</description>
-      <styleUrl>#poly-000000-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1076,7 +1038,6 @@
     <Placemark>
       <name>Pleasant Plains, Washington, D.C.</name>
       <description>Pleasant Plains</description>
-      <styleUrl>#poly-9FC3FF-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1108,7 +1069,6 @@
     <Placemark>
       <name>Edgewood, Washington, D.C.</name>
       <description>Edgewood</description>
-      <styleUrl>#poly-009D57-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1141,7 +1101,6 @@
     <Placemark>
       <name>Trinity College, Washington, D.C.</name>
       <description>Trinity College</description>
-      <styleUrl>#poly-795046-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1164,7 +1123,6 @@
     <Placemark>
       <name>Catholic University, Washington, D.C.</name>
       <description>Catholic University</description>
-      <styleUrl>#poly-4186F0-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1191,7 +1149,6 @@
     </Placemark>
     <Placemark>
       <name>Brentwood, Washington, D.C.</name>
-      <styleUrl>#poly-F8971B-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1213,7 +1170,6 @@
     <Placemark>
       <name>Ivy City, Washington, D.C.</name>
       <description>Ivy City</description>
-      <styleUrl>#poly-D698AD-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1239,7 +1195,6 @@
     <Placemark>
       <name>Trinidad, Washington, D.C.</name>
       <description>Trinidad</description>
-      <styleUrl>#poly-93D7E8-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1259,7 +1214,6 @@
     <Placemark>
       <name>Carver Langston, Washington, D.C.</name>
       <description>Carver Langston</description>
-      <styleUrl>#poly-009D57-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1281,7 +1235,6 @@
     </Placemark>
     <Placemark>
       <name>Langdon, Washington, D.C.</name>
-      <styleUrl>#poly-FFDD5E-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1310,7 +1263,6 @@
     <Placemark>
       <name>Arboretum, Washington, D.C.</name>
       <description>Arboretum</description>
-      <styleUrl>#poly-DB4436-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1336,7 +1288,6 @@
     <Placemark>
       <name>Gateway, Washington, D.C.</name>
       <description>Gateway</description>
-      <styleUrl>#poly-7CCFA9-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1357,7 +1308,6 @@
     <Placemark>
       <name>Fort Lincoln, Washington, D.C.</name>
       <description>Fort Lincoln</description>
-      <styleUrl>#poly-EE9C96-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1380,7 +1330,6 @@
     <Placemark>
       <name>Kingman Park, Washington, D.C.</name>
       <description>Kingman Park</description>
-      <styleUrl>#poly-F8971B-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1414,7 +1363,6 @@
     <Placemark>
       <name>Capitol Hill, Washington, D.C.</name>
       <description>Capitol Hill</description>
-      <styleUrl>#poly-EE9C96-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1443,7 +1391,6 @@
     <Placemark>
       <name>Barney Circle, Washington, D.C.</name>
       <description>Barney Circle</description>
-      <styleUrl>#poly-4186F0-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1472,7 +1419,6 @@
     <Placemark>
       <name>Navy Yard, Washington, D.C.</name>
       <description>Navy Yard</description>
-      <styleUrl>#poly-A61B4A-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1502,7 +1448,6 @@
     <Placemark>
       <name>Southwest, Washington, D.C.</name>
       <description>Southwest</description>
-      <styleUrl>#poly-9FC3FF-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1539,7 +1484,6 @@
     <Placemark>
       <name>Swampoodle, Washington, D.C.</name>
       <description>Swampoodle</description>
-      <styleUrl>#poly-62AF44-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1558,7 +1502,6 @@
     <Placemark>
       <name>Judiciary Square, Washington, D.C.</name>
       <description>Judiciary Square</description>
-      <styleUrl>#poly-3F5BA9-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1581,7 +1524,6 @@
     </Placemark>
     <Placemark>
       <name>Penn Quarter, Washington, D.C.</name>
-      <styleUrl>#poly-7C3592-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1602,7 +1544,6 @@
     <Placemark>
       <name>Federal Triangle, Washington, D.C.</name>
       <description>Federal Triangle</description>
-      <styleUrl>#poly-000000-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1621,7 +1562,6 @@
     <Placemark>
       <name>Twining, Washington, D.C.</name>
       <description>Twining</description>
-      <styleUrl>#poly-000000-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1640,7 +1580,6 @@
     <Placemark>
       <name>Randle Highlands, Washington, D.C.</name>
       <description>Randle Highlands</description>
-      <styleUrl>#poly-A61B4A-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1665,7 +1604,6 @@
     <Placemark>
       <name>Dupont Park, Washington, D.C.</name>
       <description>Dupont Park</description>
-      <styleUrl>#poly-F4B400-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1697,7 +1635,6 @@
     <Placemark>
       <name>Greenway, Washington, D.C.</name>
       <description>Greenway</description>
-      <styleUrl>#poly-0BA9CC-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1722,7 +1659,6 @@
     <Placemark>
       <name>Fort Dupont, Washington, D.C.</name>
       <description>Fort Dupont</description>
-      <styleUrl>#poly-F4EB37-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1754,7 +1690,6 @@
     <Placemark>
       <name>River Terrace, Washington, D.C.</name>
       <description>River Terrace</description>
-      <styleUrl>#poly-62AF44-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1779,7 +1714,6 @@
     <Placemark>
       <name>Benning, Washington, D.C.</name>
       <description>Benning</description>
-      <styleUrl>#poly-D698AD-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1803,7 +1737,6 @@
     <Placemark>
       <name>Mayfair, Washington, D.C.</name>
       <description>Mayfair</description>
-      <styleUrl>#poly-7C3592-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1847,7 +1780,6 @@
     <Placemark>
       <name>Mahaning Heights, Washington, D.C.</name>
       <description>Mahaning Heights</description>
-      <styleUrl>#poly-A7B5D7-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1870,7 +1802,6 @@
     <Placemark>
       <name>Benning Heights, Washington, D.C.</name>
       <description>Benning Heights</description>
-      <styleUrl>#poly-B29189-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1892,7 +1823,6 @@
     <Placemark>
       <name>Hillbrook, Washington, D.C.</name>
       <description>Hillbrook</description>
-      <styleUrl>#poly-F4B400-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1913,7 +1843,6 @@
     <Placemark>
       <name>Lincoln Heights, Washington, D.C.</name>
       <description>Lincoln Heights</description>
-      <styleUrl>#poly-4186F0-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1933,7 +1862,6 @@
     <Placemark>
       <name>East Corner, Washington, D.C.</name>
       <description>East Corner</description>
-      <styleUrl>#poly-009D57-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1953,7 +1881,6 @@
     <Placemark>
       <name>Burrville, Washington, D.C.</name>
       <description>Burrville</description>
-      <styleUrl>#poly-93D7E8-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1971,7 +1898,6 @@
     <Placemark>
       <name>Deanwood, Washington, D.C.</name>
       <description>Deanwood</description>
-      <styleUrl>#poly-DB4436-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1994,7 +1920,6 @@
     <Placemark>
       <name>Capitol View, Washington, D.C.</name>
       <description>Capitol View</description>
-      <styleUrl>#poly-7C3592-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2020,7 +1945,6 @@
     <Placemark>
       <name>Marshall Heights, Washington, D.C.</name>
       <description>Marshall Heights</description>
-      <styleUrl>#poly-0BA9CC-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2053,7 +1977,6 @@
     <Placemark>
       <name>Civic Betterment, Washington, D.C.</name>
       <description>Civic Betterment</description>
-      <styleUrl>#poly-009D57-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2077,7 +2000,6 @@
     <Placemark>
       <name>Benning Ridge, Washington, D.C.</name>
       <description>Benning Ridge</description>
-      <styleUrl>#poly-3F5BA9-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2113,7 +2035,6 @@
     <Placemark>
       <name>Fort Davis, Washington, D.C.</name>
       <description>Fort Davis</description>
-      <styleUrl>#poly-DB4436-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2144,7 +2065,6 @@
     <Placemark>
       <name>Fairlawn, Washington, D.C.</name>
       <description>Fairlawn</description>
-      <styleUrl>#poly-3F5BA9-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2174,7 +2094,6 @@
     <Placemark>
       <name>Fairfax Village, Washington, D.C.</name>
       <description>Fairfax Village</description>
-      <styleUrl>#poly-009D57-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2198,7 +2117,6 @@
     <Placemark>
       <name>Hillcrest, Washington, D.C.</name>
       <description>Hillcrest</description>
-      <styleUrl>#poly-FAD199-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2224,7 +2142,6 @@
     <Placemark>
       <name>Naylor Gardens, Washington, D.C.</name>
       <description>Naylor Gardens</description>
-      <styleUrl>#poly-D698AD-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2252,7 +2169,6 @@
     <Placemark>
       <name>Good Hope, Washington, D.C.</name>
       <description>Good Hope</description>
-      <styleUrl>#poly-9FC3FF-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2288,7 +2204,6 @@
     <Placemark>
       <name>Garfield Heights, Washington, D.C.</name>
       <description>Garfield Heights</description>
-      <styleUrl>#poly-7C3592-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2323,7 +2238,6 @@
     <Placemark>
       <name>Knox Hill, Washington, D.C.</name>
       <description>Knox Hill</description>
-      <styleUrl>#poly-7CCFA9-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2346,7 +2260,6 @@
     <Placemark>
       <name>Shipley Terrace, Washington, D.C.</name>
       <description>Shipley Terrace</description>
-      <styleUrl>#poly-B29189-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2390,7 +2303,6 @@
     <Placemark>
       <name>Tenleytown, Washington, D.C.</name>
       <description>Tenleytown</description>
-      <styleUrl>#poly-7C3592-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2410,7 +2322,6 @@
     <Placemark>
       <name>Friendship Heights, Washington, D.C.</name>
       <description>Friendship Heights</description>
-      <styleUrl>#poly-000000-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2437,7 +2348,6 @@
     <Placemark>
       <name>Burleith, Washington, D.C.</name>
       <description>Burleith</description>
-      <styleUrl>#poly-3F5BA9-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2465,7 +2375,6 @@
     <Placemark>
       <name>Foxhall, Washington, D.C.</name>
       <description>Foxhall</description>
-      <styleUrl>#poly-DB4436-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2493,7 +2402,6 @@
     <Placemark>
       <name>Colony Hill, Washington, D.C.</name>
       <description>Colony Hill</description>
-      <styleUrl>#poly-F4EB37-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2522,7 +2430,6 @@
     <Placemark>
       <name>Berkley, Washington, D.C.</name>
       <description>Berkley</description>
-      <styleUrl>#poly-D698AD-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2567,7 +2474,6 @@
     <Placemark>
       <name>Palisades, The, Washington, D.C.</name>
       <description>Palisades, The</description>
-      <styleUrl>#poly-009D57-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2621,7 +2527,6 @@
     <Placemark>
       <name>Spring Valley, Washington, D.C.</name>
       <description>Spring Valley</description>
-      <styleUrl>#poly-A61B4A-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2654,7 +2559,6 @@
     <Placemark>
       <name>Kent, Washington, D.C.</name>
       <description>Kent</description>
-      <styleUrl>#poly-0BA9CC-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2691,7 +2595,6 @@
     </Placemark>
     <Placemark>
       <name>American University Park, Washington, D.C.</name>
-      <styleUrl>#poly-F4B400-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2729,7 +2632,6 @@
     <Placemark>
       <name>Wesley Heights, Washington, D.C.</name>
       <description>Wesley Heights</description>
-      <styleUrl>#poly-CDDC39-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2765,7 +2667,6 @@
     <Placemark>
       <name>Wakefield, Washington, D.C.</name>
       <description>Wakefield</description>
-      <styleUrl>#poly-DB4436-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2784,7 +2685,6 @@
     <Placemark>
       <name>Chevy Chase, Washington, D.C.</name>
       <description>Chevy Chase</description>
-      <styleUrl>#poly-009D57-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2827,7 +2727,6 @@
     <Placemark>
       <name>Barnaby Woods, Washington, D.C.</name>
       <description>Barnaby Woods</description>
-      <styleUrl>#poly-9FC3FF-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2851,7 +2750,6 @@
     <Placemark>
       <name>Hawthorne, Washington, D.C.</name>
       <description>Hawthorne</description>
-      <styleUrl>#poly-FFDD5E-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2877,7 +2775,6 @@
     <Placemark>
       <name>Forest Hills, Washington, D.C.</name>
       <description>Forest Hills</description>
-      <styleUrl>#poly-3F5BA9-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2921,7 +2818,6 @@
     <Placemark>
       <name>North Cleveland Park, Washington, D.C.</name>
       <description>North Cleveland Park</description>
-      <styleUrl>#poly-0BA9CC-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2942,7 +2838,6 @@
     <Placemark>
       <name>McLean Gardens, Washington, D.C.</name>
       <description>McLean Gardens</description>
-      <styleUrl>#poly-EE9C96-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2971,7 +2866,6 @@
     <Placemark>
       <name>Cleveland Park, Washington, D.C.</name>
       <description>Cleveland Park</description>
-      <styleUrl>#poly-9FC3FF-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -3020,7 +2914,6 @@
     <Placemark>
       <name>Massachusetts Heights, Washington, D.C.</name>
       <description>Massachusetts Heights</description>
-      <styleUrl>#poly-009D57-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -3041,7 +2934,6 @@
     <Placemark>
       <name>Cathedral Heights, Washington, D.C.</name>
       <description>Cathedral Heights</description>
-      <styleUrl>#poly-795046-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -3068,7 +2960,6 @@
     <Placemark>
       <name>Glover Park, Washington, D.C.</name>
       <description>Glover Park</description>
-      <styleUrl>#poly-7C3592-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -3107,7 +2998,6 @@
     <Placemark>
       <name>Woodley Park, Washington, D.C.</name>
       <description>Woodley Park</description>
-      <styleUrl>#poly-DB4436-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -3149,7 +3039,6 @@
     <Placemark>
       <name>Woodland-Normanstone Terrace, Washington, D.C.</name>
       <description>Woodland-Normanstone Terrace</description>
-      <styleUrl>#poly-F4B400-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -3179,7 +3068,6 @@
     <Placemark>
       <name>Observatory Circle, Washington, D.C.</name>
       <description>Observatory Circle</description>
-      <styleUrl>#poly-000000-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -3213,7 +3101,6 @@
     <Placemark>
       <name>Georgetown, Washington, D.C.</name>
       <description>Georgetown</description>
-      <styleUrl>#poly-A7B5D7-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -3256,7 +3143,6 @@
     <Placemark>
       <name>Douglass, Washington, D.C.</name>
       <description>Douglass</description>
-      <styleUrl>#poly-0BA9CC-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -3294,7 +3180,6 @@
     <Placemark>
       <name>Buena Vista, Washington, D.C.</name>
       <description>Buena Vista</description>
-      <styleUrl>#poly-F8971B-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -3333,7 +3218,6 @@
     <Placemark>
       <name>Anacostia, Washington, D.C.</name>
       <description>Anacostia</description>
-      <styleUrl>#poly-62AF44-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -3383,7 +3267,6 @@
     <Placemark>
       <name>Woodland, Washington, D.C.</name>
       <description>Woodland</description>
-      <styleUrl>#poly-FFDD5E-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -3408,7 +3291,6 @@
     <Placemark>
       <name>Blue Plains Treatment Plant, Washington, D.C.</name>
       <description>Blue Plains Treatment Plant</description>
-      <styleUrl>#poly-F4B400-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -3436,7 +3318,6 @@
     <Placemark>
       <name>Anacostia Naval Station and Bolling Air Force Base, Washington, D.C.</name>
       <description>Anacostia Naval Station and Bolling Air Force Base</description>
-      <styleUrl>#poly-4186F0-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -3467,7 +3348,6 @@
     <Placemark>
       <name>Barry Farm, Washington, D.C.</name>
       <description>Barry Farm</description>
-      <styleUrl>#poly-F4EB37-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -3492,7 +3372,6 @@
     <Placemark>
       <name>Saint Elizabeths, Washington, D.C.</name>
       <description>Saint Elizabeths</description>
-      <styleUrl>#poly-DB4436-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -3520,7 +3399,6 @@
     <Placemark>
       <name>Washington Highlands, Washington, D.C.</name>
       <description>Washington Highlands</description>
-      <styleUrl>#poly-93D7E8-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -3550,7 +3428,6 @@
     <Placemark>
       <name>Congress Heights, Washington, D.C.</name>
       <description>Congress Heights</description>
-      <styleUrl>#poly-62AF44-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -3606,7 +3483,6 @@
     <Placemark>
       <name>Bellevue, Washington, D.C.</name>
       <description>Bellevue</description>
-      <styleUrl>#poly-C6A4CF-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -3663,7 +3539,6 @@
     <Placemark>
       <name>Eastland Gardens, Washington, D.C.</name>
       <description>Eastland Gardens</description>
-      <styleUrl>#poly-000000-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -3686,7 +3561,6 @@
     <Placemark>
       <name>Kenilworth, Washington, D.C.</name>
       <description>Kenilworth</description>
-      <styleUrl>#poly-A61B4A-1200-76</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
