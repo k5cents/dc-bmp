@@ -101,4 +101,3 @@ names(final) <- c("income", "installations")
 # Make a scatterplot
 plot(final)
 abline(lm(installations ~ income, data = final))
-cor.test(final$income, final$installations)
