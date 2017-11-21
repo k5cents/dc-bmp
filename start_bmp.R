@@ -15,7 +15,7 @@ for(i in 1:length(nbh.raw)){
 }
 
 # Read in a list of neighborhood names (in the same order as the shapes).
-nbh.names <- read.csv("https://raw.githubusercontent.com/k5cents/dc-bmp/master/names.csv", header = FALSE)$V1
+nbh.names <- read.csv("https://raw.githubusercontent.com/k5cents/dc-bmp/master/nbh_names.csv", header = FALSE)$V1
 
 # Apply that list of neighborhood names as the names for each neighborhood shape.
 names(nbh.shapes) <- nbh.names
