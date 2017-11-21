@@ -6,7 +6,7 @@ income <- read.csv("https://opendata.arcgis.com/datasets/b78d164649ad487db0f2b20
 BMP <- read.csv("https://opendata.arcgis.com/datasets/a973c2c7b7c14a918859f3e38bdffdd2_42.csv")
 tract.raw <- getKMLcoordinates(kmlfile="https://opendata.arcgis.com/datasets/b78d164649ad487db0f2b20a9261fb8c_17.kml", ignoreAltitude = T)
 tract.names <- as.character(read.csv("https://github.com/k5cents/dc-bmp/raw/master/tract_names.csv", header = F)$V1)
-nbh.raw <- getKMLcoordinates(kmlfile="https://raw.githubusercontent.com/k5cents/dc-bmp/master/shapes.kml", ignoreAltitude = T)
+nbh.raw <- getKMLcoordinates(kmlfile="https://raw.githubusercontent.com/k5cents/dc-bmp/master/nbh_shapes.kml", ignoreAltitude = T)
 
 # Create empty list, then fill with neighborhood boundies as polygons.
 nbh.shapes <- as.list(rep(NA, length(nbh.raw)))
