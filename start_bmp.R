@@ -3,7 +3,7 @@ library("sp")
 library("maptools")
 
 # Download the KML and CSV data.
-nbh.raw <- getKMLcoordinates(kmlfile="https://raw.githubusercontent.com/k5cents/dc-bmp/master/shapes.kml", ignoreAltitude = T)
+nbh.raw <- getKMLcoordinates(kmlfile="https://raw.githubusercontent.com/k5cents/dc-bmp/master/nbh_shapes.kml", ignoreAltitude = T)
 tract.raw <- getKMLcoordinates(kmlfile="https://opendata.arcgis.com/datasets/b78d164649ad487db0f2b20a9261fb8c_17.kml", ignoreAltitude = T)
 BMP <- read.csv("https://opendata.arcgis.com/datasets/a973c2c7b7c14a918859f3e38bdffdd2_42.csv")
 income <- read.csv("https://opendata.arcgis.com/datasets/b78d164649ad487db0f2b20a9261fb8c_17.csv")
