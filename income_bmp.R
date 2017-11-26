@@ -51,7 +51,7 @@ for(i in 1:length(tract.raw)){
 
 # Apply that list of tract "names" as the names for each neighborhood shape.
 tract.vec <- rep("tract", length(tract.raw))
-tract.nos <- tract.names <- as.character(read.csv("https://github.com/k5cents/dc-bmp/raw/master/fedtract.csv", header = F)$V1)
+tract.nos <- tract.names <- as.character(read.csv("https://github.com/k5cents/dc-bmp/raw/master/tract_names.csv", header = F)$V1)
 tract.no <-paste(tract.vec, tract.nos, sep = "_")
 names(tract.shapes) <- tract.no
 
