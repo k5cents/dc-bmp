@@ -2,10 +2,10 @@
 library("sp")
 library("maptools")
 
-income <- read.csv("https://opendata.arcgis.com/datasets/b78d164649ad487db0f2b20a9261fb8c_17.csv")
+income <- read.csv("https://opendata.arcgis.com/datasets/6969dd63c5cb4d6aa32f15effb8311f3_8.csv")
 BMP <- read.csv("https://opendata.arcgis.com/datasets/a973c2c7b7c14a918859f3e38bdffdd2_42.csv")
-tract.raw <- getKMLcoordinates(kmlfile="https://opendata.arcgis.com/datasets/b78d164649ad487db0f2b20a9261fb8c_17.kml", ignoreAltitude = T)
-tract.names <- as.character(read.csv("https://github.com/k5cents/dc-bmp/raw/master/tract_names.csv", header = F)$V1)
+tract.raw <- getKMLcoordinates(kmlfile="https://opendata.arcgis.com/datasets/6969dd63c5cb4d6aa32f15effb8311f3_8.kml", ignoreAltitude = T)
+tract.names <- as.character(income$TRACT, header = F)
 nbh.raw <- getKMLcoordinates(kmlfile="https://raw.githubusercontent.com/k5cents/dc-bmp/master/nbh_shapes.kml", ignoreAltitude = T)
 
 # Create empty list, then fill with neighborhood boundies as polygons.
@@ -51,7 +51,7 @@ for(i in 1:length(tract.raw)){
 
 # Apply that list of tract "names" as the names for each neighborhood shape.
 tract.vec <- rep("tract", length(tract.raw))
-tract.nos <- tract.names <- as.character(read.csv("https://github.com/k5cents/dc-bmp/raw/master/tract_names.csv", header = F)$V1)
+tract.nos <- tract.names
 tract.no <-paste(tract.vec, tract.nos, sep = "_")
 names(tract.shapes) <- tract.no
 
@@ -91,7 +91,7 @@ for(i in 1:nrow(income)){
 # Make a vector of the median income per tract
 tract.income <- rep(NA, nrow(income))
 for(i in 1:nrow(income)){
-  tract.income[i] <- income$FAGI_MEDIAN_2005[income$FEDTRACTNO == tract.names[i]]
+  tract.income[i] <- income$FAGI_MEDIAN_2013[income$TRACT == tract.names[i]]
 }
 
 # Combine the two vectors
